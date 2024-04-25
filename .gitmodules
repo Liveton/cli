@@ -1,0 +1,3 @@
+[submodule "s7cli"]
+	path = s7cli
+	url = https://github.com/Studio7Dev/s7cli
